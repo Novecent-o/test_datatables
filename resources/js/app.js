@@ -16,8 +16,8 @@ $(document).ready( function () {
         "scrollCollapse": true,
         "paging":         false
     } );
+} );
 
-} )
 
 window.Vue = require('vue');
 
